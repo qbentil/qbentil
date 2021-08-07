@@ -10,5 +10,6 @@
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ExpressJS, (Databases) - SQL, MySql
 - ⚡ Fun fact: Listiening to Musics🎧🎵 
 
-- **I've got everything to do with writing codes😍**
+
+## **I've got everything to do with writing codes😍**
 
