@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Bentil
+## Hi there 👋 I'm Bentil!
 
 - 🔭 I’m currently working on a students resource and MCQ trial app still in development. This is for all university students
-- 🌱 I’m currently learning Frontend develpment using AngularJS with NodeJS as Backend and Restful API
+- 🌱 I’m currently learning Frontend development using AngularJS with NodeJS as Backend and Restful API
 - 👯 I’m looking to collaborate on any Projects related to web Applications with technolgies including (JavaScript, PHP) and MySql as database
 - 🤔 I’m looking for help with advancing my Codes.
 - 💬 Ask me about solving problems and debugging of your PHP codes
