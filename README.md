@@ -13,8 +13,8 @@
 
 ## **I've got everything to do with writing codes😍**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dark&hide_border=true)](https://git.io/streak-stats) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbentil&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbentil&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qbentil&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qbentil&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbentil&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbentil&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qbentil&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qbentil&theme=solarized_dark)
