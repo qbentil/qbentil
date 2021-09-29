@@ -17,4 +17,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbentil&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qbentil&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qbentil&theme=github_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qbentil&theme=github_dark)
