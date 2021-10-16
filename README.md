@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Bentil!
 
-- 🔭 I’m currently working on a students resource and MCQ trial web app still in development. This is for all university students.
+- 🔭 I am currently seeting up a Web Hosting Service and Domain Name Registration Company as part of my 2021 Achievements. (🏆)
+- 🌱 I’m  working on a students resource and MCQ trial web app still in development. This is for all university students.
 - 🌱 I'm currently learning PYTHON DATA ANALYSIS from EDX. Currently learning Pandas Lib.
 - 👯 I’m looking to collaborate on any Projects related to web Applications with technolgies including (JavaScript, PHP) and MySql as database
 - 🤔 I’m looking for help with advancing my Codes.
