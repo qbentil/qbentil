@@ -23,10 +23,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qbentil&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=dracula&hide_border=true&count-private=true)](https://github.com/qbentil)   
-[![David Main stats](https://github-readme-stats.vercel.app/api?username=qbentil&show_icons=true&theme=dracula)](https://github.com/qbentil)
+[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=qbentil&show_icons=true&theme=dracula)](https://github.com/qbentil)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
 
 ![GitHub metrics](https://metrics.lecoq.io/qbentil)  
 
-![Profile views](https://gpvc.arturio.dev/qbentil)  
+
