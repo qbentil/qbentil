@@ -15,14 +15,13 @@
 - LinkedIn: https://www.linkedin.com/in/shadrack-bentil-410422199
 
 ## **I've got everything to do with writing codes😍**
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dark&hide_border=true)] (https://git.io/streak-stats)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=github_dark&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbentil&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbentil&theme=github_dark)
 [![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=qbentil&show_icons=true&theme=github_dark)](https://github.com/qbentil)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
 
 ![GitHub metrics](https://metrics.lecoq.io/qbentil)  
