@@ -10,7 +10,7 @@
 - 📫 How to reach me: bentilshadrack72@gmail.com, twitter @themanbentil, WhatsApp +233 (0) 55 684 4331
 - 🦾 Computer languages i can speak?,English, Javascript, Typescript, PHP, JAVA, Python, C++ - HTML CSS (cant be counted but...well..yeah)
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ExpressJS, (Databases) - SQL, MySql.
-- ⚡ Fun fact: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
+- ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
 
 - LinkedIn: https://www.linkedin.com/in/shadrack-bentil-410422199
 
