@@ -29,6 +29,9 @@
 ![GitHub metrics](https://metrics.lecoq.io/qbentil)  
 
 <!-- Bentilzone Showcase -->
-<img src="./BentilZone-logo-04.png" width="28px" alt="Bentilzone Logo 1">
-
+<img src="./BentilZone-logo-04.png" width="250px" alt="Bentilzone Logo 1">
+<img src="./BentilZone-logo-05.png" width="250px" alt="Bentilzone Logo 2">
+<img src="./BentilZone-logo-06.png" width="250px" alt="Bentilzone Logo 3">
+<img src="./BentilZone-logo-07.png" width="250px" alt="Bentilzone Logo 4">
+<img src="./BentilZone-logo-08.png" width="250px" alt="Bentilzone Logo 5">
 
