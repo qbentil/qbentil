@@ -28,4 +28,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/qbentil)  
 
+<!-- Bentilzone Showcase -->
+<img src="./BentilZone-logo-04.png" width="28px" alt="Bentilzone Logo 1">
+
 
