@@ -29,11 +29,11 @@
 ![GitHub metrics](https://metrics.lecoq.io/qbentil)  
 
 <!-- Bentilzone Showcase -->
-<div style = "display: flex; justify-content: space-around; align-items: center; ">
- <img src="./BentilZone-logo-04.png" width="250px" alt="Bentilzone Logo 1">
- <img src="./BentilZone-logo-05.png" width="250px" alt="Bentilzone Logo 2">
- <img src="./BentilZone-logo-06.png" width="250px" alt="Bentilzone Logo 3">
- <img src="./BentilZone-logo-07.png" width="250px" alt="Bentilzone Logo 4">
- <img src="./BentilZone-logo-08.png" width="250px" alt="Bentilzone Logo 5">
+<div style = "display: flex; justify-content: space-around; align-items: center; width: 100vw; ">
+ <img src="./BentilZone-logo-04.png" style = "width: 19%" alt="Bentilzone Logo 1">
+ <img src="./BentilZone-logo-05.png" style = "width: 19%" alt="Bentilzone Logo 2">
+ <img src="./BentilZone-logo-06.png" style = "width: 19%" alt="Bentilzone Logo 3">
+ <img src="./BentilZone-logo-07.png" style = "width: 19%" alt="Bentilzone Logo 4">
+ <img src="./BentilZone-logo-08.png" style = "width: 19%" alt="Bentilzone Logo 5">
 </div>
 
