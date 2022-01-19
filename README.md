@@ -1,7 +1,5 @@
-<div style = "display: flex">
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
- <p align="center"> <img src="https://img.shields.io/github/followers/qbentil?style=social" alt="qbentil" /> </p>
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/qbentil?style=social" alt="qbentil" /> </p>
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, I'm Bentil!
 
@@ -17,7 +15,7 @@
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ExpressJS, (Databases) - SQL, MySql.
 - ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
 
-- LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" style="font-size:48px; color: #f00" target = "_blank">LinkedIn</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a>
 
 ## **I've got everything to do with writing codes😍**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
@@ -33,10 +31,10 @@
 
 <!-- Bentilzone Showcase -->
 <div style = "display: flex; justify-content: space-around; align-items: center; width: 100vw; ">
- <img src="./BentilZone-logo-04.png" style = "width: 19%" alt="Bentilzone Logo 1">
- <img src="./BentilZone-logo-05.png" style = "width: 19%" alt="Bentilzone Logo 2">
- <img src="./BentilZone-logo-06.png" style = "width: 19%" alt="Bentilzone Logo 3">
- <img src="./BentilZone-logo-07.png" style = "width: 19%" alt="Bentilzone Logo 4">
- <img src="./BentilZone-logo-08.png" style = "width: 19%" alt="Bentilzone Logo 5">
+  <img src="./BentilZone-logo-04.png" style = "width: 19%" alt="Bentilzone Logo 1">
+  <img src="./BentilZone-logo-05.png" style = "width: 19%" alt="Bentilzone Logo 2">
+  <img src="./BentilZone-logo-06.png" style = "width: 19%" alt="Bentilzone Logo 3">
+  <img src="./BentilZone-logo-07.png" style = "width: 19%" alt="Bentilzone Logo 4">
+  <img src="./BentilZone-logo-08.png" style = "width: 19%" alt="Bentilzone Logo 5">
 </div>
 
