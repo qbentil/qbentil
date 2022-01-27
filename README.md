@@ -15,7 +15,7 @@
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ExpressJS, (Databases) - SQL, MySql.
 - ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
 
-- LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a>
+- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a>
 
 ## **I've got everything to do with writing codes😍**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
