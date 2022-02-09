@@ -16,7 +16,7 @@
 - ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
 
 - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a>
-- Connect via WhatsApp: <a href = "https://wa.me/233556844331?text=Hello%20Bentil!%20I%27m%20coming%20from%20your%20github%20profile" target = "_blank">LinkedIn</a>
+- Connect via WhatsApp: <a href = "https://wa.me/233556844331?text=Hello%20Bentil!%20I%27m%20coming%20from%20your%20github%20profile" target = "_blank">WhatsApp</a>
 
 ## **I've got everything to do with writing codes😍**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
