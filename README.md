@@ -4,7 +4,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Bentil here!
 
 - 🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
-- 🔭 I have set up a Web Hosting Service and Domain Name Registration Start-up as part of my 2021 Achievements. (🏆) *_www.bentilzone.com_*
+<!-- - 🔭 I have set up a Web Hosting Service and Domain Name Registration Start-up as part of my 2021 Achievements. (🏆) *_www.bentilzone.com_* -->
 - 🌱 I’m  working on a students resource and MCQ trial web app still in development. This is for all tertiary students. 
 - 🌱 I have developed a knowledgebase and Question and answeres community for students (askme.uglearner.com)🎉
 - 👯 I’m looking to collaborate on any Projects related to web Applications with technolgies including (JavaScript, PHP) and MySql as database
@@ -24,9 +24,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbentil&theme=github_dark)
 [![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=qbentil&show_icons=true&theme=github_dark)](https://github.com/qbentil)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil) -->
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/qbentil)  
 
