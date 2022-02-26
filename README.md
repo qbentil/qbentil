@@ -31,7 +31,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" >
 </p>
 - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a>
-- Connect via WhatsApp: <a href = "https://wa.me/233556844331?text=Hello%20Bentil!%20I%27m%20coming%20from%20your%20github%20profile" target = "_blank">WhatsApp</a>
 
 ## **I've got everything to do with writing codes😍**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
