@@ -32,7 +32,7 @@
 </p>
 - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a>
 
-## **I've got everything to do with writing codes😍**
+## **I've got everything to do with writing codes😍👩‍💻**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbentil&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=github_dark)
