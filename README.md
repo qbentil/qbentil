@@ -1,5 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/qbentil?style=social" alt="qbentil" /> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
 
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Bentil here!
 
@@ -30,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" >
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil&theme=dracula" alt="qbentil" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil&theme=dracula" alt="qbentil" /></a> </p> -->
 
 
 ## **I've got everything to do with writing codes😍👩‍💻**
