@@ -13,6 +13,8 @@
 - 🦾 Computer languages I can speak?,English, Javascript, Typescript, PHP, JAVA, Python, C++ - HTML CSS (cant be counted but...well..yeah)
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ReactJS, ExpressJS, (Databases) - SQL, MySql.
 - ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil" alt="qbentil" /></a> </p>
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
