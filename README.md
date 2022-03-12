@@ -44,7 +44,7 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/qbentil)   -->
+![GitHub metrics](https://metrics.lecoq.io/qbentil)  
 
 <!-- Bentilzone Showcase -->
 <div style = "display: flex; justify-content: space-around; align-items: center; width: 100vw; ">
@@ -53,6 +53,6 @@
   <img src="./BentilZone-logo-06.png" style = "width: 19%" alt="Bentilzone Logo 3">
   <img src="./BentilZone-logo-07.png" style = "width: 19%" alt="Bentilzone Logo 4">
   <img src="./BentilZone-logo-08.png" style = "width: 19%" alt="Bentilzone Logo 5"> -->
-<!--  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil" alt="qbentil" /></a> -->
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil" alt="qbentil" /></a>
 </div>
 
