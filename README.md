@@ -34,9 +34,11 @@ Call me = "qBentil" 🤗
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
+    <img src="https://img.shields.io/badge/nodejs-00000F?style=for-the-badge&logo=nodejs&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=white" />
 </a>&nbsp;&nbsp;
-
 
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
