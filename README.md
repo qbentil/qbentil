@@ -43,9 +43,11 @@ Call me = "qBentil" 🤗
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>&nbsp;&nbsp;
-
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/qbentil">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 
@@ -57,9 +59,9 @@ Call me = "qBentil" 🤗
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
+<!-- <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil&theme=dracula" alt="qbentil" /></a> </p> -->
 
