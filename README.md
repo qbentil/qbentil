@@ -4,8 +4,14 @@
 
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Bentil here!
 
-- 🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
-<!-- - 🔭 I have set up a Web Hosting Service and Domain Name Registration Start-up as part of my 2021 Achievements. (🏆) *_www.bentilzone.com_* -->
+```python
+Name = "qBentil"
+TWITTER = ['Themanbentil']
+TELEGRAM = ['BENTILZONE']
+COUNTRY = "GHANA, ACCRA"
+```
+<!-- - 🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
+- 🔭 I have set up a Web Hosting Service and Domain Name Registration Start-up as part of my 2021 Achievements. (🏆) *_www.bentilzone.com_*
 - 🌱 I’m  working on a students resource and MCQ trial web app still in development. This is for all tertiary students. 
 - 🌱 I have developed a knowledgebase and Question and answeres community for students (askme.uglearner.com)🎉
 - 🤔 I’m looking for help with advancing my Codes.
@@ -13,8 +19,10 @@
 - 📫 How to reach me: bentilshadrack72@gmail.com, twitter @themanbentil, Instagram @qbentil
 - 🦾 Computer languages I can speak?,English, Javascript, Typescript, PHP, JAVA, Python, C++ - HTML CSS (cant be counted but...well..yeah)
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ReactJS, ExpressJS, (Databases) - SQL, MySql.
-- ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
-- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a>
+- ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐  -->
+[![telegram badge](https://img.shields.io/badge/BENTILZONE-30302f?style=for-the-badge&logo=telegram)](https://t.me/BENTILZONE)
+[![Twitter badge](https://img.shields.io/badge/THEMANBENTIL-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/themanbentil)
+<!-- - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a> -->
 <h3 align="left">⚙ My Tech Stack:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp;
