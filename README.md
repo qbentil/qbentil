@@ -48,8 +48,6 @@ Call me = "qBentil" 🤗
 </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil&theme=dracula" alt="qbentil" /></a> </p> -->
 
-
-## **I've got everything to do with writing codes😍👩‍💻**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbentil&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=github_dark)
