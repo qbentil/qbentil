@@ -11,16 +11,6 @@ Call me = "qBentil" 🤗
 -⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
 -💬 Ask me about solving problems and building innovative ideas through Tech.
 ```
-<!-- - 🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
-- 🔭 I have set up a Web Hosting Service and Domain Name Registration Start-up as part of my 2021 Achievements. (🏆) *_www.bentilzone.com_*
-- 🌱 I’m  working on a students resource and MCQ trial web app still in development. This is for all tertiary students. 
-- 🌱 I have developed a knowledgebase and Question and answeres community for students (askme.uglearner.com)🎉
-- 🤔 I’m looking for help with advancing my Codes.
-- 💬 Ask me about solving problems and building innovative ideas through Tech.
-- 📫 How to reach me: bentilshadrack72@gmail.com, twitter @themanbentil, Instagram @qbentil
-- 🦾 Computer languages I can speak?,English, Javascript, Typescript, PHP, JAVA, Python, C++ - HTML CSS (cant be counted but...well..yeah)
-- 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, AngularJS, ReactJS, ExpressJS, (Databases) - SQL, MySql.
-- ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐  -->
 
 <h3 align="left">🔌 CONTACT ME:</h3>
 
@@ -31,7 +21,9 @@ Call me = "qBentil" 🤗
 [![youtube badge](https://img.shields.io/badge/youtube-30302f?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtbdUBRM5h07Ctw3oFwNaow)
 
 <h3 align="left">⚙ My Tech Stack:</h3>
-### I know : <br>
+
+### I know : 
+
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -42,14 +34,10 @@ Call me = "qBentil" 🤗
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</a>
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</a>&nbsp;&nbsp;
+
+
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -64,9 +52,9 @@ Call me = "qBentil" 🤗
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!-- <a href="https://github.com/neophyte-programmer">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</a>&nbsp;&nbsp; -->
+<a href="https://github.com/qbentil">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>&nbsp;&nbsp;
