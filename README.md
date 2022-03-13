@@ -12,7 +12,7 @@ Call me = "qBentil" 🤗
 -💬 Ask me about solving problems and building innovative ideas through Tech.
 ```
 
-<h3 align="left">🔌 CONTACT ME:</h3>
+<h3 align="left">🔌 CONNECT:</h3>
 
 [![telegram badge](https://img.shields.io/badge/BENTILZONE-30302f?style=for-the-badge&logo=telegram)](https://t.me/BENTILZONE)
 [![Twitter badge](https://img.shields.io/badge/THEMANBENTIL-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/themanbentil)
