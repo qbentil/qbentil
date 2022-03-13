@@ -6,9 +6,10 @@
 
 ```python
 Name = "qBentil"
-TWITTER = ['Themanbentil']
-TELEGRAM = ['BENTILZONE']
-COUNTRY = "GHANA, ACCRA"
+-🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
+- 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, React Native, ReactJS, ExpressJS, (Databases) - SQL, MySql.
+-⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
+-💬 Ask me about solving problems and building innovative ideas through Tech.
 ```
 <!-- - 🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
 - 🔭 I have set up a Web Hosting Service and Domain Name Registration Start-up as part of my 2021 Achievements. (🏆) *_www.bentilzone.com_*
@@ -28,7 +29,6 @@ COUNTRY = "GHANA, ACCRA"
 [![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shadrack-bentil-410422199)
 [![whatsApp badge](https://img.shields.io/badge/BENTIL-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233556844331?text=Hello%20Bentil!%20I%27m%20coming%20from%20your%20Github%20profile)
 [![youtube badge](https://img.shields.io/badge/youtube-30302f?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtbdUBRM5h07Ctw3oFwNaow)
-<!-- - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a> -->
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 <p align="left">
