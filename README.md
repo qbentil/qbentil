@@ -22,10 +22,12 @@ COUNTRY = "GHANA, ACCRA"
 - ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐  -->
 
 <h3 align="left">🔌 CONTACT ME:</h3>
+
 [![telegram badge](https://img.shields.io/badge/BENTILZONE-30302f?style=for-the-badge&logo=telegram)](https://t.me/BENTILZONE)
 [![Twitter badge](https://img.shields.io/badge/THEMANBENTIL-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/themanbentil)
 [![linkedin badge](https://img.shields.io/badge/LINKEDIN-30302f?style=for-the-badge&logo=twitter)](https://www.linkedin.com/in/shadrack-bentil-410422199)
 <!-- - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a> -->
+
 <h3 align="left">⚙ My Tech Stack:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp;
