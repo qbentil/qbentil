@@ -64,7 +64,7 @@ Call me = "qBentil" 🤗
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-native-CC6699?style=for-the-badge&logo=react-native&logoColor=white" />
 </a>&nbsp;&nbsp;
 <!-- <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
