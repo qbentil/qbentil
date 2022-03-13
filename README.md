@@ -25,7 +25,7 @@ COUNTRY = "GHANA, ACCRA"
 
 [![telegram badge](https://img.shields.io/badge/BENTILZONE-30302f?style=for-the-badge&logo=telegram)](https://t.me/BENTILZONE)
 [![Twitter badge](https://img.shields.io/badge/THEMANBENTIL-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/themanbentil)
-[![linkedin badge](https://img.shields.io/badge/LINKEDIN-30302f?style=for-the-badge&logo=twitter)](https://www.linkedin.com/in/shadrack-bentil-410422199)
+[![linkedin badge](https://img.shields.io/badge/LINKEDIN-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shadrack-bentil-410422199)
 <!-- - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a> -->
 
 <h3 align="left">⚙ My Tech Stack:</h3>
