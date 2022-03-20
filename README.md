@@ -82,7 +82,7 @@ Call me = "qBentil" 🤗
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/qbentil)   -->
+![GitHub metrics](https://metrics.lecoq.io/qbentil)  
 
 <!-- Bentilzone Showcase -->
 <div style = "display: flex; justify-content: space-around; align-items: center; width: 100vw; ">
