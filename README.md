@@ -11,6 +11,7 @@ Call me = "qBentil" 🤗
 - 🌌 Proficiently Skilled in - (Web Application Development) PHP, NodeJS, ReactJS, ExpressJS, (Mobile Aapp Development) - React Native (Databases) - SQL, MySql.
 -⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
 -💬 Ask me about solving problems and building innovative ideas through Tech.
+-👀 Data Science Enthusiast.
 ```
 
 <h3 align="left">🔌 CONNECT:</h3>
