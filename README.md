@@ -1,9 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
-<h2>🏆My Github Profile Trophy</h2>
-
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=qbentil&column=7&theme=gruvbox&no-frame=true"/>
-
-<!-- # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, there! -->
 ## 🎧ABOUT ME💻
 ```python
 Call me = "qBentil" 🤗
@@ -82,5 +77,7 @@ Call me = "qBentil" 🤗
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil) -->
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
+<h2>🏆My Github Profile Trophy</h2>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=qbentil&column=7&theme=gruvbox&no-frame=true"/>
+![GitHub metrics](https://metrics.lecoq.io/qbentil) 
 
-![GitHub metrics](https://metrics.lecoq.io/qbentil)  
