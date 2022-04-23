@@ -81,5 +81,6 @@ Call me = "qBentil" 🤗
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
 <h2>🏆My Github Profile Trophy</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=qbentil&column=7&theme=gruvbox&no-frame=true"/>
+
 ![GitHub metrics](https://metrics.lecoq.io/qbentil) 
 
