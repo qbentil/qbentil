@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
-
+<div class="tenor-gif-embed" data-postid="18003535" data-share-method="host" data-aspect-ratio="1.32231" data-width="100%"><a href="https://tenor.com/view/power-rangers-power-rangers-zeo-gif-18003535">Power Rangers Power Rangers Zeo GIF</a>from <a href="https://tenor.com/search/power+rangers-gifs">Power Rangers GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## 🎧ABOUT ME💻
 
 ```python
