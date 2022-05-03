@@ -1,5 +1,12 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
 
+<video width="320" height="240" autoplay >
+  <source src="./do-it.mp4" type="video/mp4">
+  <source src="./do-it.mp4.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
 ## 🎧ABOUT ME💻
 
 ```python
