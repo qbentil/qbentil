@@ -16,7 +16,7 @@ Call me = "qBentil" 🤗
 -🌱 I'm currently learning Mobile App development using React Native from CS50 💫.
 - 🌌 Proficiently Skilled in - (Web Application Development) PHP, NodeJS, ReactJS, ExpressJS, (Mobile Aapp Development) - React Native (Databases) - SQL, MySql.
 -⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
--💬 Ask me about solving problems and building innovative ideas through Tech.
+-💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
 -👀 Data Science Enthusiast.
 ```
 
