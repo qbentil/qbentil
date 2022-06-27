@@ -64,9 +64,6 @@ Call me = "qBentil" 🤗
 <!--     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/mongodb-eee?style=for-the-badge&logo=mongodb&logoColor=green" />
-</a>&nbsp;&nbsp;
 
 
 ### I am learning: <br>
@@ -75,6 +72,9 @@ Call me = "qBentil" 🤗
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/react-native-CC6699?style=for-the-badge&logo=react-native&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/qbentil">
+    <img src="https://img.shields.io/badge/mongodb-eee?style=for-the-badge&logo=mongodb&logoColor=green" />
 </a>&nbsp;&nbsp;
 <!-- <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
