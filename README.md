@@ -65,7 +65,7 @@ Call me = "qBentil" 🤗
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/mongodb-3776AB?style=for-the-badge&logo=mongodb&logoColor=green" />
+    <img src="https://img.shields.io/badge/mongodb-eee?style=for-the-badge&logo=mongodb&logoColor=green" />
 </a>&nbsp;&nbsp;
 
 
