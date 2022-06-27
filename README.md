@@ -55,7 +55,7 @@ Call me = "qBentil" 🤗
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Python-0000ff?style=for-the-badge&logo=python&logoColor=yellow" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
