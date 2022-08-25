@@ -62,7 +62,6 @@ Call me = "qBentil" 🤗
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
  <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/react-native-CC6699?style=for-the-badge&logo=react-native&logoColor=white" />
