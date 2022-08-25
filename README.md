@@ -64,9 +64,6 @@ Call me = "qBentil" 🤗
 <!--     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >
 </a>&nbsp;&nbsp;
-
-
-### I am learning: <br>
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -76,6 +73,10 @@ Call me = "qBentil" 🤗
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/mongodb-eee?style=for-the-badge&logo=mongodb&logoColor=green" />
 </a>&nbsp;&nbsp;
+
+
+### I am learning: <br>
+
 <!-- <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>&nbsp;&nbsp; -->
