@@ -13,7 +13,7 @@ Your browser does not support the video tag.
 
 ```cpp
 Call me = "qBentil" 🤗
--🌱 I'm a MERN STACK & MObile App Developer (Cross Platform).
+-🌱 I'm a FULL STACK Developer.
 - 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, ReactJS, NextJS, ExpressJS, PHP (Mobile Aapp Development) - React Native (Databases) - SQL, MySql. (Coud Storage) Firebase, Google Cloud
 -⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
 -💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
