@@ -1,7 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
 
 <h1 align="center"> Hi 👋, I'm Bentil </h1>
-<h3 align="center"> A passionate software developer from Ghana </h3>
+<h3 align="center"> 
+A passionate software developer from Ghana. <br /> 
+I am GDSC Web Developement Lead University of Ghana, Google Crowdsource Influencer and a GitHub Campus Expert🚩. <br />
+</h3>
 
 ## 🎧ABOUT ME💻
 
