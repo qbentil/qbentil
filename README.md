@@ -1,21 +1,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
 
-
-<video width="500"  autoplay >
-  <source src="./do-it.mp4" type="video/mp4">
-  <source src="./do-it.mp4.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-
-
+<h1 align="center"> Hi 👋, I'm Bentil </h1>
+<h3 align="center"> A passionate software developer from Ghana </h3>
 
 ## 🎧ABOUT ME💻
 
 ```cpp
 Call me = "qBentil" 🤗
 -🌱 I'm a FULL STACK Developer.
-- 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, ReactJS, NextJS, ExpressJS, PHP (Mobile Aapp Development) - React Native (Databases) - SQL, MySql. (Coud Storage) Firebase, Google Cloud
--⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
+- 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, ReactJS, NextJS, REST API, PHP (Mobile Aapp Development) - React Native (Databases) - SQL, MySql. (Coud Storage) Firebase, Google Cloud
+-⚡ Fun facts: Tech Writeups, Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
 -💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
 -👀 Data Science Enthusiast.
 ```
@@ -73,15 +67,16 @@ Call me = "qBentil" 🤗
     <img src="https://img.shields.io/badge/mongoose-eee?style=for-the-badge&logo=mongongoose&logoColor=green" />
 </a>&nbsp;&nbsp;
 
-### I am learning: <br>
+<!-- ### I am learning: <br>
 <a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- <a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>&nbsp;&nbsp; -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qbentil&theme=dracula" alt="qbentil" /></a> </p> -->
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbentil&theme=github_dark)
