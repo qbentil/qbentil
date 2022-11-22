@@ -75,10 +75,9 @@ Call me = "qBentil" 🤗
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>&nbsp;&nbsp; -->
 
-### ✍ Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+## 📖 Latest Blog posts
+<!-- QBENTIL:START -->
+<!-- QBENTIL:END -->
 
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)

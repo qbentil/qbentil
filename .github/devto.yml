@@ -1,0 +1,20 @@
+
+name: Latest qBentil blog post workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with my latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "QBENTIL"
+          feed_list: "https://dev.to/feed/qbentil"
+          commit_message: "Update dev.to blog posts for qbentil"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
