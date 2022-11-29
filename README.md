@@ -76,8 +76,8 @@ Call me = "qBentil" 🤗
 </a>&nbsp;&nbsp; -->
 
 ## 📖 Latest Blog posts
-<!-- QBENTIL:START -->
-<!-- QBENTIL:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
