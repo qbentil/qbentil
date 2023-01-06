@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋, I'm Bentil </h1>
 <p align="center"> 
-A passionate software developer from Ghana. <br /> 
+A passionate software developer and Technical Writer from Ghana. <br /> 
 I am GDSC Web Developement Lead University of Ghana, Google Crowdsource Influencer and a GitHub Campus Expert🚩. <br />
 </p>
 
