@@ -10,9 +10,9 @@ I am GDSC Web Developement Lead University of Ghana,Beta MLSA, Google Crowdsourc
 
 ```cpp
 Call me = "qBentil" 🤗
--🌱 I'm a FULL STACK Developer.
-- 🌌 Proficiently Skilled in - (Web Application Development) NodeJS, ReactJS, NextJS, REST API, PHP (Mobile App Development) - React Native (Databases) - SQL, MySql. (Cloud Storage) Firebase, Google Cloud
--⚡ Fun facts: Tech Writeups, Listiening to Musics🎧🎵 & Surfing the internet🌎🌐
+-🌱 I'm a FULL STACK Developer & a Technical Author🖊️
+- 🌌 Proficiently Skilled in - (Web Application Development) ReactJS, NextJS, NodeJS, REST API, PHP | (Mobile App Development) - React Native | (Databases) - MongoDB, SQL, MySql. | (Cloud Storage) Firebase, Google Cloud
+-⚡ Fun facts: Tech Writeups, Listening to Music🎧🎵 & Surfing the internet🌎🌐
 -💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
 -👀 Data Science Enthusiast.
 ```
