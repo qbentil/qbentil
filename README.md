@@ -49,6 +49,9 @@ Call me = "qBentil" 🤗
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
+    <img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=blue" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/qbentil">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/qbentil">
