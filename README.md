@@ -1,12 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
 
-<div style="display:flex; align-items:center; justify-content:space-around">
-    <a href="https://app.daily.dev/bentilzone"><img src="https://api.daily.dev/devcards/286fb3e3ee324e35a2f195847b4e0e97.png?r=nry" width="400" alt="Bentil Shadrack's Dev Card"/></a>
+
     <h1 align="center"> Hi 👋, I'm Bentil </h1>
 <p align="center"> 
 I have thing for TypeScript & JavaScript<br />
 </p>
-</div>
+
 
 ## 🎧ABOUT ME💻
 
@@ -18,6 +17,7 @@ Call me = "qBentil" 🤗
 -💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
 -👀 Data Science Enthusiast.
 ```
+<a href="https://app.daily.dev/bentilzone"><img src="https://api.daily.dev/devcards/286fb3e3ee324e35a2f195847b4e0e97.png?r=nry" width="400" alt="Bentil Shadrack's Dev Card"/></a>
 
 <h3 align="left">🔌 CONNECT:</h3>
 
