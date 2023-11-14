@@ -1,6 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qbentil&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
-
-
+<p>
     <h1 align="center"> Hi 👋, I'm Bentil </h1>
 <p align="center"> 
 I have thing for TypeScript & JavaScript<br />
