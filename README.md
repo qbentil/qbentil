@@ -16,7 +16,7 @@ Call me = "qBentil" 🤗
 -💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
 -👀 Data Science Enthusiast.
 ```
-<a href="https://app.daily.dev/bentilzone"><img src="https://api.daily.dev/devcards/286fb3e3ee324e35a2f195847b4e0e97.png?r=nry" width="400" alt="Bentil Shadrack's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/bentilzone"><img src="https://api.daily.dev/devcards/286fb3e3ee324e35a2f195847b4e0e97.png?r=nry" width="400" alt="Bentil Shadrack's Dev Card"/></a>-->
 
 <h3 align="left">🔌 CONNECT:</h3>
 
