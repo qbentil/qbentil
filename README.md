@@ -91,9 +91,9 @@ Call me = "qBentil" 🤗
 [![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=qbentil&show_icons=true&theme=github_dark)](https://github.com/qbentil)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil) -->
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
 <h2>🏆My Github Profile Trophy</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=qbentil&column=7&theme=gruvbox&no-frame=true"/>
 
-![GitHub metrics](https://metrics.lecoq.io/qbentil) 
+![GitHub metrics](https://metrics.lecoq.io/qbentil) -->
 
