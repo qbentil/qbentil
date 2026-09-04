@@ -3,7 +3,7 @@
 
 ```cpp
 Call me "Bentil" 🤗
--🌱 I'm a Software Engineer & a Technical Writer🖊️
+-🌱 I'm a Software Engineer & Graph & AI Systems Researcher🖊️
 -⚡ Fun facts: I Love Cooking👨‍🍳 & Music🎧🎵
 -💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
 -👀 
